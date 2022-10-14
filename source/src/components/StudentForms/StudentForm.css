@@ -1,0 +1,31 @@
+.student-form {
+    margin-bottom: 20px;
+}
+
+.ant-collapse-header-text {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.trash-icon {
+    background-color: red;
+    color: white;
+    padding: 6px;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.add-icon {
+    background-color: #1890ff;
+    color: white;
+    padding: 6px;
+    border-radius: 6px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.ant-form-item {
+    margin-bottom: 10px !important;
+}

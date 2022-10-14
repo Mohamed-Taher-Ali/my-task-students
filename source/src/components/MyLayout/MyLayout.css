@@ -1,0 +1,37 @@
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  color: white;
+  font-size: 30px;
+  font-weight: 700;
+  margin-right: 60px;
+}
+
+.site-layout .site-layout-background {
+  background: #fff;
+}
+
+#components-layout-demo-fixed .my-header {
+  position: fixed;
+  width: '100%';
+  z-index: 1;
+}
+
+.dropdown-btn>.ant-dropdown-trigger>span {
+  background-color: white !important;
+}
+
+.my-footer {
+  text-align: center;
+}
+
+.my-header {
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+.my-header-btns {
+  float: right;
+}

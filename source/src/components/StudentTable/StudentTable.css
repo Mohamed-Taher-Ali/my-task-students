@@ -1,0 +1,17 @@
+.my-alert {
+    font-weight: 600;
+    text-align: center;
+}
+
+.ant-table-thead .ant-table-cell {
+    background-color: #001529;
+    color: white;
+  }
+
+  .ant-table-row {
+    cursor: pointer;
+  }
+
+  .ant-table-row:hover {
+    background-color: #f1f1f1;
+  }
